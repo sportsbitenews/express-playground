@@ -6,7 +6,11 @@ https://medium.com/@sunnykay/docker-development-workflow-node-express-mongo-4bb3
 
 Initializing the project is done by:
 > mkdir docker-node-mongo
+
 > cd docker-node-mongo
+
 > npm init
+
 > npm install --save express
+
 > npm install --save nodemon
