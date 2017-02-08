@@ -5,9 +5,9 @@ full instruction taken from:
 https://medium.com/@sunnykay/docker-development-workflow-node-express-mongo-4bb3b1f7eb1e#.90yp7qd5d
 
 Initializing the project is done by:
-> mkdir docker-node-mongo
+> mkdir express
 
-> cd docker-node-mongo
+> cd express
 
 > npm init
 
