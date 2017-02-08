@@ -1,0 +1,17 @@
+{
+  "name": "docker-express",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
