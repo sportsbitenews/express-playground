@@ -2,10 +2,12 @@
   "name": "docker-express",
   "version": "0.0.1",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon index.js"
   },
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
